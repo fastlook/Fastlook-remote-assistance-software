@@ -6,7 +6,7 @@
   
 The software is developed by VC + +. There is no illegal malicious code and backdoor code in the software. Now it runs stably and reliably.
 
-Since the software is not available for source code, the download execution file can be downloaded from the release of the project or to the website: www.fastlook.cn Download.
+Since the software is not available for source code, the download execution file can be downloaded from the release of the project https://github.com/fastlook/Fastlook-remote-assistance-software/releases or to the website: www.fastlook.cn Download.
 
 Tip: This software does not contain illegal Trojan horse or virus, please feel free to use. If the antivirus software prompts that there may be Trojan horse, virus or isolated when fastlook software is downloaded, installed and running, please allow to download, install and run through or close the anti-virus software.
         
