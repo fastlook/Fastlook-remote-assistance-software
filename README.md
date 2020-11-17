@@ -4,9 +4,9 @@
     unattended computers and perform server maintenance. There is no illegal malicious code and backdoor 
     code in the software. Now it runs stably and reliably.
   
-The software is developed by VC + +. There is no illegal malicious code and backdoor code in the software. Now it runs stably and reliably.
+The software is developed by VC + +. The software does not write screen capture code, keyboard and mouse acquisition code, and fully uses the functions of windows screen acquisition and keyboard and mouse acquisition. All data are encrypted, packaged and transmitted in windows. We are only the integrator of windows function and the mediator of data, and users do not need to worry about security issues.
 
-Since the software is not available for source code, the download execution file can be downloaded from the release of the project https://github.com/fastlook/Fastlook-remote-assistance-software/releases or to the website: www.fastlook.cn Download.
+As the source code of the software is not convenient for the time being, or the relevant source code will be provided soon, the execution file can be downloaded from the release of the project https://github.com/fastlook/Fastlook-remote-assistance-software/releases or to the website: www.fastlook.cn Download.
 
 Tip: This software does not contain illegal Trojan horse or virus, please feel free to use. If the antivirus software prompts that there may be Trojan horse, virus or isolated when fastlook software is downloaded, installed and running, please allow to download, install and run through or close the anti-virus software.
         
