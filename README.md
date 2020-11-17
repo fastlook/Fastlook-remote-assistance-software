@@ -1,9 +1,17 @@
 # Fastlook-remote-assistance-software
-Fastlook can provide it support within the organization regardless of the size of the organization; access office computers, e-mail and files when you are at home or on business trips; remotely access unattended computers and perform server maintenance. There is no illegal malicious code and backdoor code in the software. Now it runs stably and reliably.
+    Fastlook can provide it support within the organization regardless of the size of the organization; access office computers, e-mail and files when you are at home or on business trips; remotely access unattended computers and perform server maintenance. There is no illegal malicious code and backdoor code in the software. Now it runs stably and reliably.
+    
+    The software is developed by VC + +. There is no illegal malicious code and backdoor code in the software. Now it runs stably and reliably.
+
+    Tip: This software does not contain illegal Trojan horse or virus, please feel free to use. If the antivirus software prompts that there may be Trojan horse, virus or isolated when fastlook software is downloaded, installed and running, please allow to download, install and run through or close the anti-virus software.
+    
+    It can be downloaded from the project or go to the website: www.fastlook.cn Download. 
+    
 Main functions:
 It can easily control and assist remote computer, easily penetrate intranet and firewall, with file copy and paste, random startup, interface resolution adjustment, remote shutdown, restart, log off and other functions.
 
 Key features:
+
 concise
 The installation and update of fastlook remote control software is simple and fast, the relevant instructions are clear, the interface is simple, the setting is simple, and the operation is friendly.
 
@@ -57,8 +65,12 @@ Three simple steps to make you love it.
 
 3. Input the ID displayed on the fastlook of the other party into the "opposite party ID" box of fastlook, and enter the password set by the other party, and then connect.
 
+The source code is not provided at this time. The document description and release version are provided to run the test.
+Again, this software only provides Windows version, please use it under windows.
+Now provide free client version, if there are sponsors, givers, need to know the relevant technology, need the whole system, please use the following contact information!
 
 contact information:
+
 Wechat: wb645671796
 
 QQ:645671796
